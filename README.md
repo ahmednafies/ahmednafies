@@ -1,4 +1,4 @@
-### Hi there 👋 This Ahmed
+### Hi there 👋 This is Ahmed
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmednafies)](https://github.com/ryo-ma/github-profile-trophy)
 
