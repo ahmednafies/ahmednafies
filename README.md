@@ -1,4 +1,4 @@
-### Hi there 👋 This is Ahmed
+### Hi there 👋
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ahmednafies&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)
 
